@@ -5,4 +5,4 @@ services:
     environment:
       - ENABLE__ENVIRONMENT=false
     ports:
-      - 3000:80
+      - 4000:80
